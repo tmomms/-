@@ -1,0 +1,86 @@
+.container{
+    max-width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.title{
+    background-color: rgb(201, 241, 241);
+
+}
+
+.content{
+    text-align:center;
+    font-size: 18px;
+}
+
+.title__h1{
+    text-align: center;
+    padding-top: 35px;
+}
+
+.foto{
+    width: 192px;
+    min-height: 100px;
+    border-radius: 12px;
+    margin: 25px 0px;
+}
+
+.foto-line{
+    margin: 0 10px;
+}
+
+.arrow-bottom,
+.arrow-bottom2,
+.arrow-bottom3,
+.arrow-bottom4,
+.arrow-bottom5{
+    width: 40px;
+    height: 40px;
+    margin-bottom:-15px;
+}
+
+.arrow{
+    transform: rotate(180deg)
+}
+
+.arrow-top{
+    display: none;
+}
+
+.main{
+    text-align: center;
+    background-image: url(https://7themes.su/_ph/37/568425892.jpg);
+    background-size:cover;
+}
+
+.card{
+    text-align:justify;
+    font-size: 25px;
+    padding: 50px 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.bio,
+.bio2,
+.bio3,
+.bio4,
+.bio5{
+    display: none;
+}
+
+.bio-on{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.img-card{
+    height: 300px;
+    padding: 15px;
+    border-radius: 20px;
+    
+}
+
